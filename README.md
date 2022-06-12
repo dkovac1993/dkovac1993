@@ -1,13 +1,19 @@
 👋 Hi, I’m @DKOVAC1993 aka David Kovac and come from austria.
-- 🌱 I’m currently learning the unity engine.
 - 👀 I’m interested in every web or object oriented language like TypeScript / JavaScript / PHP / C# and many more.
 <h3><b>📱 Contact</b></h3>
 <p>
   <a href="mailto:davidkovac@gmx.at"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </p>
+<h3><b>‍💻 Software</b></h3>
+<p>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
+</p>
 <h3><b>👩‍💻 Languages</b></h3>
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/abap-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
 </p>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
