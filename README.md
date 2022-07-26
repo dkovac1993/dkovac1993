@@ -1,4 +1,5 @@
 👋 Hi, I’m @DKOVAC1993 aka David Kovac and come from austria.
+<br>
 👀 I’m interested in every web or object oriented language like TypeScript / JavaScript / PHP / C# and many more!
 <h3><b>📱 Contact</b></h3>
 <p>
@@ -32,12 +33,8 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </p>
 <h3><b>📱 Mobile Frameworks</b></h3>
 <p>
@@ -58,6 +55,11 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
   <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
+</p>
+<h3><b>🛠️ Tools</b></h3>
+<p>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </p>
 <h3><b>👩‍💻 IDEs</b></h3>
 <p>
