@@ -1,5 +1,5 @@
 👋 Hi, I’m @DKOVAC1993 aka David Kovac and come from austria.
-- 👀 I’m interested in every web or object oriented language like TypeScript / JavaScript / PHP / C# and many more!
+👀 I’m interested in every web or object oriented language like TypeScript / JavaScript / PHP / C# and many more!
 <h3><b>📱 Contact</b></h3>
 <p>
   <a href="mailto:davidkovac@gmx.at"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
