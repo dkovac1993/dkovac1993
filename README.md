@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm David Kováč (@DKOVAC1993)</h1>
+<h1 align="center">👋 Hi, I'm David Kovac (@DKOVAC1993)</h1>
 
 <p align="center">
   💻 Web & Software Developer | 📍 Based in Austria<br>
